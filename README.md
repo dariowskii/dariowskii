@@ -24,9 +24,9 @@
 <!-- BLOG-POST-LIST:END -->
 
 ## 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=dariowskii&theme=dracula&hide_border=true&include_all_commits=true&count_private=true&layout=compact)<br/>
-![](https://github-readme-stats.vercel.app/api?username=dariowskii&theme=dracula&hide_border=true&include_all_commits=true&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=dariowskii&theme=dracula&hide_border=true)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=dariowskii&theme=dracula&hide_border=true&cache_seconds=60&include_all_commits=true&count_private=true&layout=compact)<br/>
+![](https://github-readme-stats.vercel.app/api?username=dariowskii&theme=dracula&hide_border=true&cache_seconds=60&include_all_commits=true&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=dariowskii&theme=dracula&cache_seconds=60&hide_border=true)
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=dariowskii&theme=dracula&no-frame=true&no-bg=false&margin-w=4)
