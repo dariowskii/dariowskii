@@ -34,3 +34,7 @@
 ---
 ## 💰 You can help me by Donating
 [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/dariovarriale) 
+
+## 🎶 Listening
+
+![https://spotify-github-profile.vercel.app/api/view.svg?uid=2yzavxdj2yxwb9tvk0qyn7lto&redirect=true](https://spotify-github-profile.vercel.app/api/view.svg?uid=2yzavxdj2yxwb9tvk0qyn7lto&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=true&bar_color=53b14f&bar_color_cover=true)
