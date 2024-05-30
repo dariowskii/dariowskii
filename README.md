@@ -21,6 +21,8 @@
 ## My latest articles:
 
 <!-- BLOG-POST-LIST:START -->
+- [ML Text Recognition with Flutter](https://medium.com/@dariovarrialeapps/ml-text-recognition-with-flutter-90894e4829cf?source=rss-cb3031674bc4------2)
+- [Flutter CI with GitHub Actions](https://medium.com/@dariovarrialeapps/flutter-ci-with-github-actions-8216944aa8d3?source=rss-cb3031674bc4------2)
 <!-- BLOG-POST-LIST:END -->
 
 ## 📊 GitHub Stats:
