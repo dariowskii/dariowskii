@@ -1,14 +1,22 @@
-name: Latest blog post workflow
+name: Latest Medium articles workflow
 on:
   schedule:
     # Runs every hour
     - cron: '0 * * * *'
+  workflow_dispatch:
+
+permissions:
+  contents: write
+  
 jobs:
-  update-readme-with-blog:
+  update-readme-with-articles:
     name: Update this repo's README with latest blog posts
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout@v2
-      - uses: gautamkrishnar/blog-post-workflow@master
+      - name: Checkout
+        uses: actions/checkout@v4
+      - name: Pull the articles from Medium
+        uses: gautamkrishnar/blog-post-workflow@v1
         with:
           feed_list: 'https://medium.com/feed/@dariovarrialeapps'
+          template: "$newline - $randomEmoji(💯,🔥,💫,🚀,🌮)[$title]($url) $newline - $description $newline"
