@@ -21,8 +21,8 @@
 ## My latest articles:
 
 <!-- BLOG-POST-LIST:START -->
- - 🌮 [ML Text Recognition with Flutter](https://medium.com/@dariovarrialeapps/ml-text-recognition-with-flutter-90894e4829cf?source=rss-cb3031674bc4------2) ![Static Badge](https://img.shields.io/badge/medium-post?logo=medium&logoColor=%23fff&color=%23000) <br/> _$date_ <br/> <code>#flutter</code><code>#machine-learning</code><code>#mobile-app-development</code><code>#artificial-intelligence</code><code>#text-recognition</code>
- - 💯 [Flutter CI with GitHub Actions](https://medium.com/@dariovarrialeapps/flutter-ci-with-github-actions-8216944aa8d3?source=rss-cb3031674bc4------2) ![Static Badge](https://img.shields.io/badge/medium-post?logo=medium&logoColor=%23fff&color=%23000) <br/> _$date_ <br/> <code>#github-actions</code><code>#unit-testing</code><code>#continous-integration</code><code>#flutter</code><!-- BLOG-POST-LIST:END -->
+ - 🌮 [ML Text Recognition with Flutter](https://medium.com/@dariovarrialeapps/ml-text-recognition-with-flutter-90894e4829cf?source=rss-cb3031674bc4------2) ![Static Badge](https://img.shields.io/badge/medium-post?logo=medium&logoColor=%23fff&color=%23000) <br/> <i>Mon, Feb 12 2024 - 10:44</i> <br/> <code>#flutter</code><code>#machine-learning</code><code>#mobile-app-development</code><code>#artificial-intelligence</code><code>#text-recognition</code>
+ - 💯 [Flutter CI with GitHub Actions](https://medium.com/@dariovarrialeapps/flutter-ci-with-github-actions-8216944aa8d3?source=rss-cb3031674bc4------2) ![Static Badge](https://img.shields.io/badge/medium-post?logo=medium&logoColor=%23fff&color=%23000) <br/> <i>Sun, Jul 09 2023 - 16:34</i> <br/> <code>#github-actions</code><code>#unit-testing</code><code>#continous-integration</code><code>#flutter</code><!-- BLOG-POST-LIST:END -->
 
 ## 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=dariowskii&theme=dracula&hide_border=true&cache_seconds=60&include_all_commits=true&count_private=true&layout=compact)<br/>
