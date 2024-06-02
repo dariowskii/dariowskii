@@ -18,5 +18,8 @@ jobs:
       - name: Pull the articles from Medium
         uses: gautamkrishnar/blog-post-workflow@v1
         with:
-          feed_list: 'https://medium.com/feed/@dariovarrialeapps'
-          template: "$newline - $randomEmoji(💯,🔥,💫,🚀,🌮)[$title]($url) $newline - $description $newline"
+          feed_list: "https://medium.com/feed/@dariovarrialeapps"
+          committer_username: "dariowskii"
+          committer_email: "dariovarriale@rocketmail.com"
+          categories_template: "<code>#$category</code> "
+          template: "$newline - $randomEmoji(💯,🔥,💫,🚀,🌮) [$title]($url) $newline $categories"
