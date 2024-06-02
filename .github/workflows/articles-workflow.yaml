@@ -10,7 +10,7 @@ permissions:
   
 jobs:
   update-readme-with-articles:
-    name: Update this repo's README with latest blog posts
+    name: "Update this repo's README with latest blog posts"
     runs-on: ubuntu-latest
     steps:
       - name: Checkout
@@ -21,6 +21,7 @@ jobs:
           feed_list: "https://medium.com/feed/@dariovarrialeapps"
           committer_username: "dariowskii"
           committer_email: "dariovarriale@rocketmail.com"
+          commit_message: "Updated Medium articles in README 🚀"
           date_format: "ddd, mmm dd yyyy - HH:MM"
-          categories_template: "<code>#$category</code>  "
-          template: "$newline - $randomEmoji(💯,🔥,💫,🚀,🌮) [$title]($url) <br/> <small>$date</small> <br/> $categories"
+          categories_template: "`#$category` "
+          template: '$newline - $randomEmoji(💯,🔥,💫,🚀,🌮) [$title]($url) ![Static Badge](https://img.shields.io/badge/medium-post?logo=medium&logoColor=%23fff&color=%23000) <br/> <span style="font-size: .8rem">$date</span> <br/> $categories'
