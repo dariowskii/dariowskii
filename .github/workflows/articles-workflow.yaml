@@ -1,8 +1,8 @@
 name: Latest Medium articles workflow
 on:
   schedule:
-    # Runs every hour
-    - cron: '0 * * * *'
+    # Runs at 00:00
+    - cron: '0 0 * * *'
   workflow_dispatch:
 
 permissions:
