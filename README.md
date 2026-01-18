@@ -4,7 +4,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dariowskii&label=Someone%20is%20watching%20me%20%F0%9F%91%80&color=0e75b6&style=flat" alt="dariowskii" /> </p>
 
 # 💫 About Me:
-🔭 I’m currently working at [Atobit](https://www.atobit.it/)<br>🌱 I’m currently learning **Machine Learning**<br>💬 Ask me about **Flutter, Swift, Angular and Frontend Development**<br>📫 How to reach me **dariovarrialeapps@gmail.com**
+🔭 I’m currently working at [Crispy Bacon 🥓](https://www.crispybacon.it/)<br>🌱 I’m currently learning **Machine Learning**<br>💬 Ask me about **Flutter, Swift, Angular and Frontend Development**<br>📫 How to reach me **dariovarrialeapps@gmail.com**
 
 
 ## 🌐 Connect with me:
